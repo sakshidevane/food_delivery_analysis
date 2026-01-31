@@ -1,7 +1,6 @@
 
 # Food Delivery Data Analysis Project
-
-This project analyzes food delivery data using Python and Jupyter Notebook.
+This project loads and merges CSV, JSON, and SQL data to analyze food delivery patterns and generate visual insights using Python and Jupyter Notebook.
 
 ## Dataset Used
 - orders.csv (order transactions)
